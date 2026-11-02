@@ -1,0 +1,14 @@
+# Temporary and cache files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.vscode/
+.idea/
+
+# Node dependencies
+node_modules/
+.DS_Store
+
+# Local temporary output
+*.log
